@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hope u find some cool things on here, but beware, there's some sketch code ahead.
+I was young and overconfident in the past. 
+
+I also haven't really changed since then.
+
 <!--
 **scott0129/scott0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
